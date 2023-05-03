@@ -16,6 +16,7 @@ main {
     justify-content: space-evenly;
     border-radius: 20px;
     box-shadow: 0 0 10px black;
+    max-height: 90%;
 }
 
 .title {
